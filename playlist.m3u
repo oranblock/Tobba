@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="beIN_Sports_1_S1" tvg-name="beIN Sports 1 S1" group-title="Sports",beIN Sports 1 - Server 1
+https://cu.freshfin.site/mercaz1.m3u8
+#EXTINF:-1 tvg-id="beIN_Sports_1_S2" tvg-name="beIN Sports 1 S2" group-title="Sports",beIN Sports 1 - Server 2
+https://2.simokora.com/my-hls/h9asfma10d5/master.m3u8
+#EXTINF:-1 tvg-id="beIN_Sports_1_S3" tvg-name="beIN Sports 1 S3" group-title="Sports",beIN Sports 1 - Server 3
+https://cp11.adabmedia.com/hls2/sport.m3u8
+#EXTINF:-1 tvg-id="beIN_Sports_1_S10" tvg-name="beIN Sports 1 S10" group-title="Sports",beIN Sports 1 - Server 10
+https://s3.us-east-2.amazonaws.com/cff001/live/stream/index.m3u8
